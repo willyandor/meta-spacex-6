@@ -606,10 +606,10 @@ hexo-server@^2.0.0:
     open "^7.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-inside@^2.7.0-beta.21:
-  version "2.7.0-beta.21"
-  resolved "https://registry.yarnpkg.com/hexo-theme-inside/-/hexo-theme-inside-2.7.0-beta.21.tgz#62acf8d97864bc3d551bf5b1ec19898696c5f9da"
-  integrity sha512-WuNdPp/15yd6/hMCobxm11lUWnOo8kh2Zn0fCor8ea/GjJZHjO4SVJ9m5evo5QoQOPzqPgfiLzmP2LS7HevRJA==
+hexo-theme-inside@^2.7.0-beta.22:
+  version "2.7.0-beta.22"
+  resolved "https://registry.yarnpkg.com/hexo-theme-inside/-/hexo-theme-inside-2.7.0-beta.22.tgz#f906e5cfe738eb2d9855d53b50489fbb0f31af66"
+  integrity sha512-JpHd4Ju6vIOPAbC4Qc++ef/ZaJDrB45KZEgZT4JQX6jJkDnafF9YRv73Px7Ze/F2Qcu3bW92zdcP3ibvrDookg==
   dependencies:
     html-to-text "8.0.0"
     markdown-it "12.2.0"
