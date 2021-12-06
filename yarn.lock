@@ -606,12 +606,12 @@ hexo-server@^2.0.0:
     open "^7.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-inside@^2.7.0-beta.21:
-  version "2.7.0-beta.21"
-  resolved "https://registry.yarnpkg.com/hexo-theme-inside/-/hexo-theme-inside-2.7.0-beta.21.tgz#62acf8d97864bc3d551bf5b1ec19898696c5f9da"
-  integrity sha512-WuNdPp/15yd6/hMCobxm11lUWnOo8kh2Zn0fCor8ea/GjJZHjO4SVJ9m5evo5QoQOPzqPgfiLzmP2LS7HevRJA==
+hexo-theme-inside@^2.7.0-beta.23:
+  version "2.7.0-beta.23"
+  resolved "https://registry.yarnpkg.com/hexo-theme-inside/-/hexo-theme-inside-2.7.0-beta.23.tgz#8a8fcc7b340f19039d5ab0fec7639f17b15786a0"
+  integrity sha512-sL9steHUOqF6gjcwwbPjWzDnpcMPArZ3di7O/Wszh1b+nMWbpI23gJIqURJmikPq2F2vN9/x3Hv/We1fP5fQHw==
   dependencies:
-    html-to-text "8.0.0"
+    html-to-text "8.1.0"
     markdown-it "12.2.0"
     markdown-it-container "3.0.0"
 
@@ -662,10 +662,10 @@ highlight.js@^10.7.1:
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.7.3.tgz#697272e3991356e40c3cac566a74eef681756531"
   integrity sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==
 
-html-to-text@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/html-to-text/-/html-to-text-8.0.0.tgz#5848681a5a38d657a7bb58cf5006d1c29fe64ce3"
-  integrity sha512-fEtul1OerF2aMEV+Wpy+Ue20tug134jOY1GIudtdqZi7D0uTudB2tVJBKfVhTL03dtqeJoF8gk8EPX9SyMEvLg==
+html-to-text@8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/html-to-text/-/html-to-text-8.1.0.tgz#0c35fc452e6eccb275669adb8bcc61d93ec43ed5"
+  integrity sha512-Z9iYAqYK2c18GswSbnxJSeMs7lyJgwR2oIkDOyOHGBbYsPsG4HvT379jj3Lcbfko8A5ceyyMHAfkmp/BiXA9/Q==
   dependencies:
     "@selderee/plugin-htmlparser2" "^0.6.0"
     deepmerge "^4.2.2"
